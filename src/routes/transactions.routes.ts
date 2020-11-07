@@ -10,11 +10,11 @@ const transactionsRouter = Router();
 
 transactionsRouter.get('/', async (request, response) => {
   // TODO
-  const transactionRepository = getCustomRepository(TransactionsRepository)
-  const transaction = await transactionRepository.find()
-  const balance = await transactionRepository.getBalance()
+  const transactionsRepository = getCustomRepository(TransactionsRepository)
+  const transactions = await transactionsRepository.find()
+  const balance = await transactionsRepository.getBalance()
 
-  return response.json({transaction, balance})
+  return response.json({transactions, balance})
 });
 
 transactionsRouter.post('/', async (request, response) => {
