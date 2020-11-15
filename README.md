@@ -1,5 +1,3 @@
-# desafioTypeorm
-
 #### <div align="right">- Projeto Finalizado <div>
 # <div align="center">Desafio Typeorm/Typescript <div>
 ## <div align="center">Desafio ReactJS que simula uma API<div>
