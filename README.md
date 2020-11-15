@@ -1,6 +1,6 @@
 #### <div align="right">- Projeto Finalizado <div>
 # <div align="center">Desafio Typeorm/Typescript <div>
-## <div align="center">Desafio ReactJS que simula uma API<div>
+## <div align="center">Desafio Typeorm/Typescript que simula uma API<div>
 ### <div align="center">Sumário <div>
 ### <div align="center">================= <div>
 <!--ts-->
@@ -45,4 +45,4 @@ Gostou? tem alguma sugestão de melhoria? por favor, entre em contato e ja aprov
 
 ## <div align="center">Licença<div>
 
-![GitHub](https://img.shields.io/github/license/Ricnaga/desafioReact)
+![GitHub](https://img.shields.io/github/license/Ricnaga/desafioTypeorm)
